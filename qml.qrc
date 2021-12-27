@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayList.qml</file>
+        <file>MenuTool.qml</file>
+        <file>pic/next.png</file>
+        <file>pic/pause.png</file>
+        <file>pic/previous.png</file>
+        <file>pic/stop.png</file>
+        <file>pic/folder.png</file>
+        <file>pic/silence.png</file>
+        <file>pic/volum.png</file>
+        <file>pic/music.png</file>
+        <file>pic/repeat.png</file>
+        <file>pic/shuffle.png</file>
+        <file>pic/1.png</file>
+        <file>pic/2.png</file>
+        <file>pic/4.png</file>
+        <file>pic/3.png</file>
+    </qresource>
+</RCC>
